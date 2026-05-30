@@ -1,3 +1,4 @@
 some sentence
 another sentenc
-Add a sentencee
+Add a sentence
+Add B sentence
